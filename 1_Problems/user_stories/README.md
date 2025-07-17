@@ -4,21 +4,17 @@
 
 ## 🎯 Purpose
 
-Define problems from the user perspective through compelling, real-world narratives. These stories help us understand the human impact of fragmented healthcare data and identify critical touchpoints where **patient-centralized, P2P solutions** using Pear and Holepunch could transform healthcare experiences.
+Please use the template below to record your User Stories. 
 
-## 👤 User Types
+Tell us about a time when you as a patient, caregiver, healthcare provider or administrator had difficulty: 
+(1) accessing your own / a patient's full health records
+(2) sharing your own / a patient's health records between different healthcare providers
+(3) adding new information to your own / a patient's health records
 
-### Primary Users
+If you record other people's stories, please do not identify them! 
+If you record your story, it is your choice if you identify yourself. 
 
-- **Patients** - Individuals seeking healthcare across their lifetime
-- **Family Caregivers** - Managing health records for dependents or elderly relatives
-- **Healthcare Providers** - Doctors, nurses, specialists accessing patient information
-
-### Secondary Users
-
-- **Care Coordinators** - Managing patient care across multiple providers
-- **Emergency Personnel** - Needing immediate access to critical health information
-- **Healthcare Administrators** - Managing systems and workflows
+These stories help us understand the human impact of fragmented healthcare data and identify critical touchpoints where **patient-centralized, P2P solutions** using Pear and Holepunch could transform healthcare experiences.
 
 ## 📖 Story Structure
 
@@ -109,17 +105,10 @@ What **patient-centralized, P2P features** using Pear/Holepunch could address th
 - Diagnosis journeys
 - Treatment decision-making
 
-## 🎨 Storytelling Guidelines
 
-### Narrative Quality
+## Research Methods
 
-- **Compelling & Relatable** - Stories that resonate with readers
-- **Specific & Detailed** - Rich context that illuminates problems
-- **Authentic** - Based on real experiences or realistic scenarios
-- **Solution-Oriented** - Clear connection to **patient-centralized, P2P EHR** benefits using Pear/Holepunch
-
-### Research Methods
-
+- Gather user stories
 - Patient interviews and surveys
 - Provider focus groups
 - Healthcare system observations
@@ -133,7 +122,7 @@ What **patient-centralized, P2P features** using Pear/Holepunch could address th
 - Obtain consent when using real experiences
 - Focus on system issues, not individual blame
 
-## 🔍 P2P (Patient-to-Patient) Focus
+## 🔍 Drawing lessons from User Stories
 
 ### Key Questions for Each Story
 
@@ -152,45 +141,13 @@ Look for moments where **patient-centralized, peer-to-peer EHR** using Pear/Hole
 - Facilitate care coordination across systems
 - Empower patients with their own health insights
 
-## 📊 Story Impact Assessment
-
-### Emotional Impact
-
-- Frustration level (1-10)
-- Trust in healthcare system
-- Sense of agency and control
-- Overall satisfaction
-
-### Practical Impact
-
-- Time lost due to system issues
-- Financial costs from inefficiencies
-- Health outcomes affected
-- Quality of care compromised
-
-### System-Level Insights
-
-- Which healthcare processes break down?
-- Where are the biggest inefficiencies?
-- What patterns emerge across stories?
-- Which solutions would have highest impact?
-
-## 🔄 Story-to-Solution Pipeline
+### 🔄 Story-to-Solution Pipeline
 
 1. **Document** → Capture rich user experiences
 2. **Analyze** → Identify patterns and root causes
 3. **Extract** → Pull out specific problem statements
 4. **Connect** → Link to systemic issues in `../problems/`
 5. **Solve** → Reference solution development in `../../2_Solutions/`
-
-## 🤝 Contributing User Stories
-
-### Before Writing
-
-- Identify the core healthcare challenge
-- Choose the most impactful user perspective
-- Gather enough detail for rich storytelling
-- Consider the P2P solution angle
 
 ### Quality Checklist
 
@@ -202,12 +159,9 @@ Look for moments where **patient-centralized, peer-to-peer EHR** using Pear/Hole
 - [ ] Solution opportunities highlighted
 - [ ] Privacy protection ensured
 
-### Cross-Referencing
+## Cross-Referencing
 
 - Link to related problems in `../problems/`
-- Reference other relevant user stories
-- Connect to proposed solutions
-- Tag with relevant categories
 
 ## 🎯 Success Metrics
 
